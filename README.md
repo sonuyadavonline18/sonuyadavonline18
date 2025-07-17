@@ -1,21 +1,27 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonuyadavonline18/sonuyadavonline18/refs/heads/main/banner.jpg" alt="Banner" style="width:100%;" />
+  <img src="https://raw.githubusercontent.com/sonuyadavonline18/sonuyadavonline18/refs/heads/main/banner.jpg" alt="Banner" height="230" />
 </p>
 
 <h1 align="center">Hi, I'm Sonu 👋</h1>
 
 <p align="center">
   🚀 Final-year Computer Science student <br>
-  💻 Web & App Developer | 🎯 Founder of <b><a href="https://lazygenius-hq.netlify.app" target="_blank">LazyGenius.online</a></b> <br>
+  💻 Web & App Developer | 🎯 Founder of <b><a href="https://lazygenius-hq.netlify.app" target="_blank">LazyGenius.io</a></b> <br>
   🧠 Passionate about learning, building, and growing <br>
 </p>
+
+---
+
+## 🚧 Currently Building
+
+📌 <b><a href="https://lazygenius-hq.netlify.app" target="_blank">LazyGenius.io — Your hub for books, blogs & personal growth</a></b>
 
 ---
 
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,git,tailwind,vscode" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,tailwind,git,vscode" height="48" />
 </p>
 
 ---
@@ -31,9 +37,6 @@
   </a>
   <a href="mailto:yourname@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://lazygenius-hq.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </p>
 
