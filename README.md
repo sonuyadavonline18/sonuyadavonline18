@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sonuyadavonline18/sonuyadavonline18/refs/heads/main/banner.jpg" alt="Banner" height="230" />
-</p>
-
 <h1 align="center">Hi, I'm Sonu 👋</h1>
 
 <p align="center">
@@ -12,16 +8,10 @@
 
 ---
 
-## 🚧 Currently Building
-
-📌 <b><a href="https://lazygenius-hq.netlify.app" target="_blank">LazyGenius.io — Your hub for books, blogs & personal growth</a></b>
-
----
-
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,tailwind,git,vscode" height="48" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,c,git,vscode" height="48" />
 </p>
 
 ---
