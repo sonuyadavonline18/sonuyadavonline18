@@ -1,86 +1,68 @@
-<h1 align="center">Hi 👋, I'm Sonu</h1>
-<h3 align="center">🚀 Final-year Computer Science student | 💻 Web & App Developer | 🎯 Founder of LazyGenius.io | 🧠 Passionate about learning, building, and growing</h3>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+DSA+Learner;Web+%26+App+Developer;Founder+of+LazyGenius.io;Always+Learning+New+Things+🔥" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey 👋, I'm Sonu </h1>
+<h3 align="center">🚀 Final year CSE Student | Java & DSA Enthusiast | Tech Explorer 🚀</h3>
 
 ---
 
-### 🚀 About Me
-- 🎓 I’m a **final-year B.Tech Computer Science student**  
-- 🌱 I’m learning **Java, DSA, Web Dev & App Dev**  
-- 💡 Founder of **[LazyGenius.io](https://lazygenius-hq.netlify.app/)**  
-- ♟️ Chess Enthusiast | 📚 Love Reading | 🛠️ Always Building & Growing  
+### 👨‍💻 About Me
+- 🌱 Currently learning **Java, DSA & Web Development**  
+- 💡 Building my personal brand: [LazyGenius-HQ](https://github.com/sonuyadavonline18/lazygenius-hq)  
+- 🎯 Goal: Become a top-tier developer & strategist  
+- 📫 Reach me on **Instagram** → [@sonuyadavonline](https://instagram.com/sonuyadavonline)  
 
 ---
 
 ### 🛠️ Languages & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,js,css,tailwind,html" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Pinned Project  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonuyadavonline18&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonuyadavonline18&theme=tokyonight" alt="streak" height="180"/>
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://github.com/sonuyadavonline18/sonuyadavonline18/blob/output/github-contribution-grid-snake.svg" alt="snake contribution graph" />
-</p>
-
----
-
-### 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuyadavonline18&layout=compact&theme=tokyonight&langs_count=10" alt="langs" height="180"/>
-</p>
-
----
-
-### 📌 Pinned Projects
-<p align="center">
-  <a href="https://github.com/sonuyadavonline18/Java-Practice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuyadavonline18&repo=Java-Practice&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/sonuyadavonline18/LazyGenius.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuyadavonline18&repo=LazyGenius.io&theme=tokyonight" />
+  <a href="https://github.com/sonuyadavonline18/lazygenius-hq">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sonuyadavonline18&repo=lazygenius-hq&theme=radical" />
   </a>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 📊 GitHub Stats  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonuyadavonline18/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sonuyadavonline" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonuyadavonline18&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonuyadavonline18&layout=compact&theme=radical" height="180em"/>
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/sonuyadavonline">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/sonuyadavonline18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/sonuyadavonline18">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sonuyadavonline18/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚡ Tech Vibes & Java/DSA Animations
+### ⚡ Tech Vibes  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" width="250"/> <!-- Java coding -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/> <!-- Algorithm animation -->
+  <!-- Java Animation -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80px" height="80px"/>
+  <img src="https://media.giphy.com/media/SUEN4w9Zt8H16/giphy.gif" width="100px" height="80px" alt="DSA vibe"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120px" height="80px" alt="Coding vibe"/>
 </p>
 
 ---
 
-⭐️ From [Sonu](https://github.com/sonuyadavonline18)
+⭐ **"Code. Learn. Build. Repeat."**
