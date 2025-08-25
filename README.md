@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonu Yadav </h1>
-![Profile views](https://komarev.com/ghpvc/?username=sonuyadavonline18&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonuyadavonline18&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
 
 <h3 align="center">🚀 Final-year Computer Science student | Java & DSA Enthusiast | Tech Explorer 🚀
  | 🎯 Founder of LazyGenius.io |</h3>
